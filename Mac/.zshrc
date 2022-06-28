@@ -107,7 +107,6 @@ alias s="neofetch"
 alias ra="ranger"
 alias typora="open -a typora"
 alias vi="nvim"
-alias config="/usr/bin/git --git-dir $HOME/.dotfiles --work-tree=$HOME"
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
